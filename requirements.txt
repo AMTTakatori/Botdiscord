@@ -1,0 +1,8 @@
+beautifulsoup4 
+lxml 
+ffmpeg 
+discord.py 
+yt-dlp 
+requests 
+discord.py[voice] 
+pynacl
