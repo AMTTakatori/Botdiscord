@@ -15,7 +15,7 @@ import requests
 import urllib.parse
 
 # ================== CONFIG ==================
-TOKEN = TOKEN_DISCORD
+TOKEN =  os. getenv ("TOKEN_DISCORD")
 PREFIX = "!"
 ADMIN_ID = 894935877833334894
 
