@@ -15,7 +15,7 @@ import requests
 import urllib.parse
 
 # ================== CONFIG ==================
-TOKEN = "MTQ2NzEwOTAzODY1MDI5ODQ1Mg.GjZuLt.9nDOAK-SCw7cQUJOcedWma4MtTwg6iL-BeqJxg"
+TOKEN = "MTQ2NzEwOTAzODY1MDI5ODQ1Mg.G6nzvC.AuTL7RFMtx_0lZjGSXNE39N4UpoRrUMazCVCIc"
 PREFIX = "!"
 ADMIN_ID = 894935877833334894
 
